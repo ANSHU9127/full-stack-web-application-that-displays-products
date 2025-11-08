@@ -1,0 +1,1 @@
+Run backend: cd backend && npm install && npm run seed && npm run dev
